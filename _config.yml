@@ -1,0 +1,14 @@
+layout_spectrum: 0.4758446733467281
+typography_spectrum: 0.3062397437170148
+color:
+  brandStrength: 0.4332460511941463
+  lightness: 0.45189834968186915
+  saturation: 0.6785470347385854
+  rhythmicContrast: 0.2562510825227946
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: identityVerse
